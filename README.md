@@ -85,13 +85,13 @@
 
 ---
 
-### 🚀 Featured Projects & Profiles
+### 🚀 Featured Project
 
-> A glimpse of what I'm working on — explore more on my [GitHub →](https://github.com/mynkk47?tab=repositories)
+> A glimpse of what I'm building — explore more on my [GitHub →](https://github.com/mynkk47?tab=repositories)
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
 
 ### 🥫 [Pantry Stock Checker](https://github.com/mynkk47/Pantry-stock-checker)
 
@@ -104,12 +104,8 @@ A C++ project for managing and checking pantry inventory while practicing progra
 </a>
 
 </td>
-
-<td width="50%" valign="top">
-
-
-
-
+  </tr>
+</table>
 
 ---
 
