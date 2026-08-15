@@ -1,114 +1,186 @@
-<div align="center">
+# 👋 Hi, I'm Mayank
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20👋%2C%20I'm%20Mynkk!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=MAYANK&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Problem+Solver;Machine+Learning+%26+Data+Enthusiast;Competitive+Programmer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<p align="center">
+  <b>💻 Computer Science Student • C++ Developer • DSA Learner</b>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=C%2B%2B+%7C+DSA+%7C+Problem+Solving;Building+Projects+%7C+Learning+Every+Day;Future+Software+Development+Engineer;Exploring+Python+%26+AI%2FML" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-mynkk47-181717?style=for-the-badge&logo=github)](https://github.com/mynkk47)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)
-
-</div>
-
----
-
-## 📌 About Me
-
-- 🎓 **Education:** *[Your degree, e.g. B.Tech in Computer Science] at [Your College]*
-- 🚀 **Focus Areas:** *[e.g. Web Development, Machine Learning, DSA]*
-- 💡 **Currently Learning:** *[Skill you're picking up]*
-- 🎯 **Current Goal:** *[e.g. Open-source contributions, landing an internship]*
-- 💬 **Ask me about:** *[Your strongest skills]*
-- 📫 **Reach me at:** `your.email@gmail.com`
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mynkk47&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🧑‍💻 About Me
 
-<div align="center">
+```text
+🎓 Computer Science Student
+💻 Currently focused on C++ & Data Structures
+🧠 Improving problem-solving & algorithmic thinking
+🚀 Building projects to learn by doing
+🐧 Comfortable exploring Linux & developer tools
+🤖 Future focus → Python + AI/ML
+🎯 Long-term goal → Software Development Engineer
+```
 
-**Languages & Core**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,cpp,js,java,html,css&theme=dark" />
-
-<br/><br/>
-
-**AI / ML / Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
-<img height="48" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img height="48" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<br/><br/>
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark" />
-
-</div>
+> **"Don't just learn to code. Build something with it."**
 
 ---
 
-## 📊 GitHub Stats
+# ⚡ Tech Stack
 
-<div align="center">
+### 💻 Programming Languages
 
-<img src="https://github-readme-stats.vercel.app/api?username=mynkk47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynkk47&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
+</p>
 
-<br/>
+### 🧰 Tools & Environment
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mynkk47&theme=tokyonight&hide_border=true" width="70%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mynkk47&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
-
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
-## 🐍 Contribution Snake (animated)
+# 🧠 Current Learning
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/mynkk47/mynkk47/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
-> This turns into a live animation of your contribution graph once you add the workflow file below.
+| Area                       | Status          |
+| -------------------------- | --------------- |
+| ⚙️ C++                     | 🟢 Active       |
+| 🧩 Data Structures         | 🟡 Learning     |
+| 🧠 Algorithms              | 🟡 Learning     |
+| 🏆 Competitive Programming | 🟡 Building Up  |
+| 🐍 Python                  | 🔵 Next         |
+| 🤖 AI / ML                 | 🔵 Future Focus |
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Project
+
+## 🥫 Pantry Stock Checker
+
+My current public C++ project for managing and checking pantry inventory.
+
+**Tech:** `C++`
+
+<p>
+<a href="https://github.com/mynkk47/Pantry-stock-checker">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mynkk47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynkk47&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mynkk47&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mynkk47&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mynkk47&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+</p>
+
+---
+
+# 🗺️ My Developer Roadmap
+
+```text
+                    ┌──────────────────┐
+                    │   C++ FUNDAMENTALS│
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │       OOP        │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │  DATA STRUCTURES │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │    ALGORITHMS    │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │  PROBLEM SOLVING │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │ SOFTWARE DEV.    │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │      PYTHON      │
+                    └────────┬─────────┘
+                             ↓
+                    ┌──────────────────┐
+                    │     AI / ML      │
+                    └──────────────────┘
+```
+
+---
+
+# 🎯 2026 Goals
+
+* [x] Master C++
+* [x] Complete DSA fundamentals
+* [ ] Solve 300+ quality coding problems
+* [ ] Build 10+ meaningful projects
+* [ ] Improve Git & GitHub workflow
+* [ ] Learn Python properly
+* [ ] Start AI / ML
+* [ ] Contribute to Open Source
+* [ ] Build a strong developer portfolio
+
+---
+
+# 💻 What I'm Interested In
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🔹 [Project One](https://github.com/mynkk47/project-one)
-*One-line description of what it does.*
+### ⚙️ Software Development
 
-</td>
-<td width="50%">
-
-### 🔹 [Project Two](https://github.com/mynkk47/project-two)
-*One-line description of what it does.*
+Building useful applications and becoming a strong problem solver.
 
 </td>
-</tr>
-<tr>
-<td width="50%">
 
-### 🔹 [Project Three](https://github.com/mynkk47/project-three)
-*One-line description of what it does.*
+<td width="50%" align="center">
 
-</td>
-<td width="50%">
+### 🤖 Artificial Intelligence
 
-### 🔹 [Project Four](https://github.com/mynkk47/project-four)
-*One-line description of what it does.*
+Exploring Python, machine learning and AI-powered applications.
 
 </td>
 </tr>
@@ -116,11 +188,45 @@
 
 ---
 
-<div align="center">
+# 📌 Currently Building
 
-![Profile Views](https://komarev.com/ghpvc/?username=mynkk47&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/mynkk47?style=for-the-badge&color=blueviolet)
+```text
+┌────────────────────────────────────────────┐
+│                                            │
+│   🔨 Learning                              │
+│   ├── C++                                  │
+│   ├── Data Structures                      │
+│   └── Algorithms                           │
+│                                            │
+│   🚀 Building                              │
+│   └── C++ Projects                         │
+│                                            │
+│   🔮 Next                                  │
+│   ├── Python                               │
+│   ├── Advanced DSA                         │
+│   └── AI / ML                              │
+│                                            │
+└────────────────────────────────────────────┘
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer"/>
+---
 
-</div>
+# 📫 Connect
+
+<p align="center">
+
+<a href="https://github.com/mynkk47">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ Code. Build. Break. Fix. Repeat. ⚡</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer"/>
+</p>
