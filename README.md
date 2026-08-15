@@ -8,15 +8,11 @@
 
 <p align="center">
   <a href="https://takeuforward.org/profile/mynkkk">
-    <img src="https://img.shields.io/badge/TakeUForward-DSA%20Profile-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="TakeUForward" />
-  </a>
-  &nbsp;
-  <a href="https://codolio.com/profile/mynk47">
-    <img src="https://img.shields.io/badge/Codolio-Problem%20Tracker-10B981?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" />
+    <img src="https://tuf-stats.tashif.codes/mynkkk/stats/svg?theme=dark" alt="Mayank's TakeUForward / Striver Stats" width="55%" />
   </a>
   &nbsp;
   <a href="https://www.codechef.com/users/mynkk47">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    <img src="https://codechef-readme-stats.vercel.app/api?username=mynkk47&theme=dark" alt="CodeChef Stats" width="40%" />
   </a>
 </p>
 
