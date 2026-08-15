@@ -107,43 +107,9 @@ A C++ project for managing and checking pantry inventory while practicing progra
 
 <td width="50%" valign="top">
 
-### 🧩 [TakeUForward DSA Profile](https://takeuforward.org/profile/mynkkk)
 
-My main DSA practice profile where I track my problem-solving journey and progress through Data Structures & Algorithms.
 
-<a href="https://takeuforward.org/profile/mynkkk">
-<img src="https://img.shields.io/badge/View%20TakeUForward-7C3AED?style=flat-square&logo=leetcode&logoColor=white" alt="View TakeUForward" />
-</a>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📚 [Codolio Profile](https://codolio.com/profile/mynk47)
-
-A central place to track my coding practice, DSA progress and developer journey.
-
-<a href="https://codolio.com/profile/mynk47">
-<img src="https://img.shields.io/badge/View%20Codolio-10B981?style=flat-square&logo=codeforces&logoColor=white" alt="View Codolio" />
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏆 [CodeChef Profile](https://www.codechef.com/users/mynkk47)
-
-Practicing competitive programming and improving my problem-solving skills through CodeChef.
-
-<a href="https://www.codechef.com/users/mynkk47">
-<img src="https://img.shields.io/badge/View%20CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="View CodeChef" />
-</a>
-
-</td>
-</tr>
-</table>
 
 ---
 
