@@ -15,6 +15,35 @@
 
 ---
 
+### 🏆 Coddy.tech Profile
+
+<p align="center">
+  <a href="https://coddy.tech/user/Mynk47?via=share_profile">
+    <img src="https://img.shields.io/badge/Coddy.tech-Level%2013-181717?style=for-the-badge&logo=code&logoColor=white" alt="Coddy.tech Level 13" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/🏆%20MASTER%20LEAGUE-FFD700?style=for-the-badge&logoColor=black" alt="Coddy Master League" />
+</p>
+
+<p align="center">
+  <a href="https://coddy.tech/user/Mynk47?via=share_profile">
+    <img src="https://img.shields.io/badge/4%2C862%20XP-Coddy%20XP-7C3AED?style=for-the-badge&logoColor=white" alt="Coddy XP" />
+  </a>
+  &nbsp;
+  <a href="https://coddy.tech/user/Mynk47?via=share_profile">
+    <img src="https://img.shields.io/badge/21%20Badges-Earned-22D3EE?style=for-the-badge&logoColor=white" alt="Coddy Badges" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://coddy.tech/user/Mynk47?via=share_profile">
+    <img src="https://img.shields.io/badge/VIEW%20CODDY%20PROFILE-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Coddy Profile" />
+  </a>
+</p>
+
+---
+
+
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** Pursuing B.Tech in Computer Science.
