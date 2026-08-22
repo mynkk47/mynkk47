@@ -10,12 +10,7 @@
   <a href="https://takeuforward.org/profile/mynkkk">
     <img src="https://tuf-stats.tashif.codes/mynkkk/stats/svg?theme=dark" alt="Mayank's TakeUForward / Striver Stats" width="33%" />
   </a>
-  <a href="https://www.codechef.com/users/mynkk47">
-    <img src="https://codechef-readme-stats.vercel.app/api?username=mynkk47&theme=dark" alt="CodeChef Stats" width="33%" />
-  </a>
-  <a href="https://leetcode.com/u/Mynkkk47/">
-    <img src="https://leetcard.jacoblin.cool/Mynkkk47?theme=dark&font=baloo_2&ext=activity&border=0&radius=12" alt="LeetCode Stats" width="33%" />
-  </a>
+  
 </p>
 
 ---
